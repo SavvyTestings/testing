@@ -7,7 +7,7 @@ import { homeCollection } from './content/pages/home/index.js'
 import { templatesCollection } from './content/pages/templates'
 
 // const branch = process.env.VERCEL_GIT_COMMIT_REF || 'with-app' // change this to your currrent branch
-const branch = 'with-app'
+const branch = 'main'
 // const cloudinaryConfig = {
 //   loadCustomStore: async () => {
 //     const pack = await import('next-tinacms-cloudinary')
