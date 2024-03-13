@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <TheatreProjectProvider id="Satus-Home" config="/config/Satus-Home.json">
       <Wrapper theme="red" className={s.page}>
-        <h1>satus/home</h1>
+        <h1>savvycodding</h1>
       </Wrapper>
     </TheatreProjectProvider>
   )

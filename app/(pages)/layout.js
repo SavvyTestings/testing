@@ -6,10 +6,12 @@ import 'styles/global.scss'
 import { fonts } from '../fonts'
 
 export const metadata = {
-  title: 'Satus',
-  description: '',
+  title: 'Savvycoding',
+  description: 'just pure vibes here',
 }
-
+// # Calls:
+// gsap for ScrollTriggerConfig and lenis
+// googletagmanager
 export default async function Layout({ children }) {
   return (
     <html lang="en" className={fonts.className}>
