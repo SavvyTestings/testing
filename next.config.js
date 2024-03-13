@@ -43,7 +43,7 @@ const nextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'assets.darkroom.engineering',
+        hostname: 'assets.savvy.coding',
       },
     ],
     formats: ['image/avif', 'image/webp'],
